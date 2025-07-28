@@ -1,0 +1,25 @@
+/* versión básica solo para mostrar que funciona */
+body {
+  font-family: sans-serif;
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+.btn {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #0056b3;
+}
